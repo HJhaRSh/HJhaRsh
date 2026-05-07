@@ -1,5 +1,27 @@
-# 💫 About Me:
-# Hi 👋, I'm Harsh Jain<br><br>### IT Engineering Student | AI & Data Analytics Enthusiast | Vibe Coder 🚀<br><br>Passionate about building innovative, real-world tech projects using AI, Machine Learning, Data Analytics, and modern development tools.<br><br>💻 Into Vibe Coding — turning ideas into creative and functional projects  <br>🤖 Building AI-powered applications and recommendation systems  <br>📊 Exploring Data Analytics, Business Intelligence & ML  <br>🏎️ Interested in F1 Strategy Analytics and intelligent systems  <br>🌱 Currently learning DevOps & Cloud Technologies  <br><br>## Tech Stack<br>Python • Java • C • SQL • Power BI • HTML • CSS • JavaScript • OpenCV<br><br>## Current Focus<br>- AI-powered Applications  <br>- Recommendation Systems  <br>- Data Analytics Projects  <br>- Full-Stack Development  <br>- DevOps & Cloud  <br><br>🚀 Always learning, building, and experimenting with new ideas.
+# 💫 About Me
+
+Hi, I'm Harsh Jain 👋  
+IT Engineering Student • AI & Data Analytics Enthusiast • Vibe Coder 🚀
+
+Passionate about building innovative and real-world tech projects using AI, Machine Learning, Data Analytics, and modern development tools.
+
+- 💻 Into Vibe Coding — turning ideas into creative and functional projects  
+- 🤖 Building AI-powered applications and recommendation systems  
+- 📊 Exploring Data Analytics, Business Intelligence, and Machine Learning  
+- 🏎️ Interested in F1 Strategy Analytics and intelligent systems  
+- 🌱 Currently learning DevOps and Cloud Technologies  
+
+### Tech Stack
+`Python` `Java` `C` `SQL` `Power BI` `HTML` `CSS` `JavaScript` `OpenCV`
+
+### Current Focus
+- AI-powered Applications  
+- Recommendation Systems  
+- Data Analytics Projects  
+- Full-Stack Development  
+- DevOps & Cloud  
+
+🚀 Always learning, building, and experimenting with new ideas.
 
 
 ## 🌐 Socials:
